@@ -1,1 +1,3 @@
 # 3SIS_ProjetoGIT
+#Guarde nessa pasta somene os arquibvos descritivos referentes ao orçamento
+#Exemplo kickoff, pitch, plano de projeti, conograma... 
